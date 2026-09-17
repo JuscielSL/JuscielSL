@@ -27,7 +27,3 @@
 ### 📌 Objetivo
 
 Busco desenvolver minhas habilidades na área de **Engenharia de Software**, participar de projetos e transformar conhecimentos acadêmicos em soluções práticas.
-
-> 💡 *"Aprendendo, desenvolvendo e evoluindo um código de cada vez."*
-
-📫 **GitHub:** JuscielSL
