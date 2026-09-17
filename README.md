@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jusciel da Silva Lopes!
 
-🎓 **Estudante de Engenharia de Software** apaixonado por tecnologia, programação e desenvolvimento de soluções.
+🎓 **Estudante de Engenharia de Software** programação e desenvolvimento de soluções.
 
 💻 Tenho interesse e experiência acadêmica em **desenvolvimento de software, banco de dados, programação e análise de sistemas**, buscando constantemente aprimorar meus conhecimentos e aprender novas tecnologias.
 
